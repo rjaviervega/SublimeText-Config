@@ -1,0 +1,4 @@
+[
+    { "keys" : ["super+ctrl+b"], "command": "alignment" },
+    { "keys" : ["super+shift+space"], "command": "expand_region" }
+]

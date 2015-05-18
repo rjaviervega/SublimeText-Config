@@ -1,0 +1,35 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CSS Format",
+		"ExpandRegion",
+		"Git",
+		"GitDiffHelper",
+		"GitGutter-Edge",
+		"GitStatus",
+		"Handlebars",
+		"HighlightWords",
+		"HTMLBeautify",
+		"Javascript Beautify",
+		"JSHint",
+		"JSHint Gutter",
+		"JSON Reindent",
+		"LESS",
+		"Package Control",
+		"Paste as Column",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"Sublime Bookmarks",
+		"TrailingSpaces",
+		"Trimmer",
+		"VAlign",
+		"WordHighlight"
+	]
+}

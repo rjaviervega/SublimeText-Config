@@ -1,0 +1,61 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jvega/Desktop/Workflow/javier/tyrion/app/components"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jvega/Desktop/Workflow/javier/tyrion"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jvega/Desktop/Workflow/javier/ehr-ember"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jvega/Desktop/Workflow/javier/carbon/app/legacy/practice/templates/practice_dashboard"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jvega/Desktop/Workflow/javier/carbon/app/legacy/practice/templates"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jvega/Desktop/Workflow/javier/carbon/app/legacy/practice/resources/less"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jvega/Desktop/Workflow/javier/carbon/app/legacy/practice/controllers/practice_dashboard"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jvega/Desktop/Workflow/javier/carbon/app/legacy/main/main/serializers"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jvega/Desktop/Workflow/javier/carbon/app/legacy/main/main/models"
+		},
+		{
+			"file_exclude_patterns":
+			[
+				".sublime-grunt.cache",
+				".bowerrc",
+				".gitignore"
+			],
+			"folder_exclude_patterns":
+			[
+				"carbon/.tmp",
+				"carbon/tmp",
+				"carbon/dist",
+				"carbon/node_modules",
+				"carbon/tasks",
+				"carbon/vendor",
+				"carbon/recipes"
+			],
+			"follow_symlinks": true,
+			"path": "/Users/jvega/Desktop/Workflow/javier/carbon"
+		}
+	]
+}

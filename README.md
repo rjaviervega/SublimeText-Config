@@ -32,6 +32,6 @@ Usage:
       * WordHighlight
       * AutoSpell
       * JSHint Gutter
-4. Copy contetn from User folder to ~/Library/Application Support/Sublime Text 3/Packages/USer
+4. Copy content inside User folder to ~/Library/Application Support/Sublime Text 3/Packages/User
 
 License MIT.

@@ -25,6 +25,7 @@ Usage:
       * LESS
       * Package Control
       * Pretty JSON
+      * Side Bar (SideBarEnhancements)
       * Side Bar Git
       * Sublime Bookmarks
       * Trailing Spaces

@@ -7,7 +7,7 @@ Usage:
 1. Install Sublime Text 3
 2. Install Sublime Package Manager [https://packagecontrol.io/installation](https://packagecontrol.io/installation)
 3. Install the following packages
-      * AdavancedNewFile  
+      * AdvancedNewFile  
       * Alignment
       * Bracket Highlighter
       * Color Highlightet

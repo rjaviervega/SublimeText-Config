@@ -10,7 +10,7 @@ Usage:
       * AdvancedNewFile  
       * Alignment
       * Bracket Highlighter
-      * Color Highlightet
+      * Color Highlighter
       * CSS Format
       * DocBlockr
       * Git-StatusBar

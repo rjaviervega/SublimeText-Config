@@ -13,6 +13,7 @@ Usage:
       * Color Highlighter
       * CSS Format
       * DocBlockr
+      * ExpandRegion
       * Git-StatusBar
       * Git
       * GitGutter

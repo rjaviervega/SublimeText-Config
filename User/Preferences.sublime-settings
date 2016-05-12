@@ -18,6 +18,7 @@
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 12,
 	"highlight_modified_tabs": true,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"

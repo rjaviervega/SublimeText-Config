@@ -23,6 +23,7 @@ Usage:
       * Javascript Beautify
       * JSON Reindent
       * KeyboardSpellCheck
+      * Modific
       * LESS
       * Package Control
       * Pretty JSON

@@ -9,6 +9,7 @@ Usage:
 3. Install the following packages
       * AdvancedNewFile  
       * Alignment
+      * AutoSpell
       * Bracket Highlighter
       * Color Highlighter
       * CSS Format
@@ -16,11 +17,10 @@ Usage:
       * ExpandRegion
       * Git-StatusBar
       * Git
-      * GitGutter
-      * GitOpenChangedFiles
       * HighlightWords
       * HTMLBeautify
       * Javascript Beautify
+      * JSHint Gutter      
       * JSON Reindent
       * KeyboardSpellCheck
       * Modific
@@ -33,8 +33,7 @@ Usage:
       * Trailing Spaces
       * Trimmer
       * WordHighlight
-      * AutoSpell
-      * JSHint Gutter
+      
 4. Copy content inside User folder to ~/Library/Application Support/Sublime Text 3/Packages/User
 
 License MIT.
